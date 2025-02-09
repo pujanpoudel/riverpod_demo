@@ -1,5 +1,4 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:riverpod_demo/Router/router.gr.dart';
 
 @AutoRouterConfig()
 class AppRouter extends RootStackRouter {
